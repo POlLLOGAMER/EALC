@@ -1,1 +1,1 @@
-# EALC
+# EALC (Enchainement Astra Loop Chain)
